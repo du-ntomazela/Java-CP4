@@ -1,0 +1,1 @@
+Projeto JDBC (Oracle). Ajuste URL/USUARIO/SENHA em ConexaoBD e rode App.java. Execute script.sql no seu schema.
